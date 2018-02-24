@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="game.c" open="1" top="1" tabpos="1">
+		<Cursor position="8365" topLine="260" />
+	</File>
+	<File name="game.h" open="0" top="0" tabpos="0">
+		<Cursor position="226" topLine="0" />
+	</File>
+	<File name="gusprite.c" open="0" top="0" tabpos="2">
+		<Cursor position="9198" topLine="231" />
+	</File>
+	<File name="gusprite.h" open="0" top="0" tabpos="0">
+		<Cursor position="1018" topLine="0" />
+	</File>
+	<File name="main.c" open="0" top="0" tabpos="2">
+		<Cursor position="2276" topLine="78" />
+	</File>
+	<File name="vram.c" open="0" top="0" tabpos="0">
+		<Cursor position="786" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
